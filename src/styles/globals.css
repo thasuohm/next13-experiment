@@ -1,0 +1,10 @@
+@tailwind base;
+
+html, pre {
+    font-family: var(--font-sarabun), sans-serif;
+    scroll-behavior: smooth;
+}
+
+@tailwind components;
+@tailwind utilities;
+
